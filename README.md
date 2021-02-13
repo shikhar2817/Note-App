@@ -1,6 +1,6 @@
 # Note-App
 
-This is a Node JS project , a Note application.
+This is build with Node JS , a Note application.
 Functions :
   Adding Note
   Removing Note
